@@ -1,0 +1,1 @@
+echo 'WSA cloud backend app is Up & running'
