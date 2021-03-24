@@ -1,0 +1,14 @@
+opencv-python
+numpy
+pandas
+imutils
+tensorflow
+tensornets
+tqdm
+setuptools
+Cython
+setproctitle
+psycopg2-binary
+psutil
+schedule
+boto3
