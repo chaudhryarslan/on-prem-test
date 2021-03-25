@@ -1,1 +1,1 @@
-echo 'WSA cloud backend app is Up & running'
+echo 'WSA Edge App is Up & running'
